@@ -1,9 +1,9 @@
 /* Customize */
 :root {
-    /* Primary Color (Default: rgb(85, 8, 8) ) */
-    --color1: rgb(85, 8, 8);
-    /* Secondary Color (Default: rgb(56, 0, 0) ) */
-    --color2: rgb(56, 0, 0);
+    /* Primary Color (Default: rgb(238, 18, 137) ) */
+    --color1: rgb(238, 18, 137);
+    /* Secondary Color (Default: rgb(255, 20, 147) ) */
+    --color2: rgb(255, 20, 147);
 
     /* Primary Color Buttons On Hover (Default: rgb(95, 9, 9) ) */
     --color3: rgb(95, 9, 9);
@@ -11,10 +11,10 @@
     --color4: rgb(71, 0, 0);
 
     /* Tertiary Color (Default: darkred) */
-    --color10: darkred;
+    --color10: Dodger Blue;
 
     /* Accent Color (Default: red) */
-    --accent-color: red;
+    --accent-color: blue ;
 
     /* Background Image (change the url inside the brackets, default: url(https://i.imgur.com/6rlzsb8.png); ) */
     --background-url: url(https://i.imgur.com/6rlzsb8.png);
